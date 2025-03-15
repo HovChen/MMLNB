@@ -1,0 +1,1 @@
+You are a specialized pathologist, please describe what you see microscopically on the neuroblastoma pathology image.

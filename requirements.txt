@@ -1,0 +1,16 @@
+decord==0.6.0
+gradio==5.20.1
+imagesize==1.4.1
+modelscope==1.22.3
+openai==1.66.3
+packaging==24.2
+pandas==2.2.3
+peft==0.14.0
+Pillow==11.1.0
+qwen-vl-utils==0.0.2
+Requests==2.32.3
+swanlab==0.5.1
+torch==2.4.0
+torchvision==0.19.0
+tqdm==4.67.1
+transformers==4.49.0.dev0
