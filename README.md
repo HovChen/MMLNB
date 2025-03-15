@@ -29,7 +29,7 @@ data/
     └── descriptions.csv
 ```
 
-- The descriptions CSV files should contain the pathology descriptions and corresponding image file names (columns: file_name, description, class, where class values are PD, D, or U).
+- The descriptions CSV files should contain the pathology descriptions and corresponding image file names (columns: file_name, description, class, where class values are PD, D, or UD).
 
 ## Training and Testing
 

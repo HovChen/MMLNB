@@ -42,7 +42,7 @@ def evaluate_model(model, val_loader, criterion, device, checkpoint_path, save_p
     print_metrics(eval_metrics)
 
     # 生成混淆矩阵
-    class_names = ["PD", "D", "U"]  # 类别名称列表
+    class_names = ["PD", "D", "UD"]  # 类别名称列表
     cm = confusion_matrix(all_targets, all_preds)
     display_confusion_matrix(cm, class_names,save_path)
 

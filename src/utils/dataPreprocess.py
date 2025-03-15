@@ -29,7 +29,7 @@ def get_label_from_class(class_value):
         return 0
     elif class_value == 'D':
         return 1
-    elif class_value == 'U':
+    elif class_value == 'UD':
         return 2
     else:
         return None
