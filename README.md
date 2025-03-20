@@ -64,12 +64,14 @@ $ python train_MMLNB.py \
 ## Citation
 
 ```
-@inproceedings{chen2025mmlnb,
-  title={MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation},
-  author={Chen, Huangwei and Zhu, Zhu and Yan, Zhenyu and Chen, Yifei and Ding, Mingyang and Li, Chenlei and Qin, Feiwei},
-  booktitle={Computer Methods and Programs in Biomedicine},
-  pages={},
-  year={2025}
+@misc{chen2025mmlnbmultimodallearningneuroblastoma,
+      title={MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation}, 
+      author={Huangwei Chen and Yifei Chen and Zhenyu Yan and Mingyang Ding and Chenlei Li and Zhu Zhu and Feiwei Qin},
+      year={2025},
+      eprint={2503.12927},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.12927}, 
 }
 ```
 
